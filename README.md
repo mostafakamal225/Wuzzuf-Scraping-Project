@@ -79,6 +79,3 @@ The script currently scrapes the first 5 pages of results.
 
 You can change the number of pages by editing the loop in main().
 
-🤝 Author
-
-Made with ❤️ by Mostafa Kamal
